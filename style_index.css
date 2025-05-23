@@ -2,6 +2,14 @@
     font-family: 'Hua';
     src:url('hua-13.ttf') format('truetype');
 }
+nav{
+    background-color: white;
+    width: 100vw;
+    display: flex;
+    position: sticky;
+    top: 0;
+    z-index: 100
+}
 #home{
     min-height: 100vh;
     background-image: url("fondo_about_me.jpg");
