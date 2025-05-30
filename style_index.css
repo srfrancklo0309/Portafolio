@@ -214,4 +214,5 @@ nav{
 }
 body {
     font-family:"Hua";
+    justify-content: space-between;
 }
